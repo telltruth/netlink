@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include <string.h>
 #include <iostream>
 #include "NetIntfBuilder.h"
 
-using namespace std;
+using std::cout;
+using std::endl;
 
 int main(int argc, const char *argv[])
 {
